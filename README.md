@@ -1,1 +1,1 @@
-# InvoiceGenerator-Server
+# Invoice gen app-Server
